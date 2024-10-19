@@ -740,7 +740,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: dd5d0467-8eb9-45a3-baa2-928903e5d015
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames:
   - Very Low
@@ -749,8 +749,8 @@ PlayerSettings:
   - High
   - Very High
   - Ultra
-  projectName: AiLO
-  organizationId: jaiswalkishan628
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
