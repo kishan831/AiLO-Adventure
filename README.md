@@ -1,6 +1,9 @@
 ### **AiLO-Adventure: A Parkour Odyssey**
 Embark on an epic journey where a small character navigates a **massive world**, starting in a **dark, mysterious laboratory**. Explore, parkour, and engage in intense combat against other players. As the game evolves, **multiplayer capabilities** will be added using **Unity Fusion** for seamless online interaction and cooperative play.
 
+**See the Parkour System in Action!**  
+![Parkour Animation](https://raw.githubusercontent.com/kishan831/AiLO-Adventure/main/Thry/GIF.gif)
+
 ### **Parkour Actions & Features**
 
 |   **Actions**             | **Features**                |
@@ -32,7 +35,3 @@ Check out the parkour action in action:
 |   Jump and Climb          | Space Bar             | X (PlayStation) / A (Xbox)        |
 |   Drop and Slide          | C                     | O (PlayStation) / B (Xbox)        |
 
----
-
-**See the Parkour System in Action!**  
-![Parkour Animation](https://github.com/YourRepoPath/Thry/GIF.gif)
