@@ -1,4 +1,0 @@
-repository "AiLO@jaiswalkishan628@cloud"
-  path "/"
-    br "/main"
-    co "/main"
